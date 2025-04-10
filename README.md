@@ -3,5 +3,5 @@
 
 
 
-⚠ **Warning**: This repository contains tools for educational and authorized security testing purposes only..
+⚠ **Warning**: This repository contains tools for educational and authorized security testing purposes only.
 
