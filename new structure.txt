@@ -1,0 +1,40 @@
+CyberSec-Toolkit/
+│
+├── README.md                # ملف أساسي يشرح المشروع بالكامل
+├── requirements.txt         # مكتبة الـ Python المطلوبة (لو فيه)
+├── LICENSE                  # لو حابب تضيف رخصة (MIT مثلاً)
+│
+├── recon/                   # أدوات الـ Recon & Enumeration
+│   ├── subdomain_enum.py
+│   ├── dir_bruteforce.py
+│   └── README.md
+│
+├── exploit/                 # أدوات الـ Exploitation
+│   ├── sql_injection_tester.py
+│   ├── lfi_checker.py
+│   └── README.md
+│
+├── post_exploitation/       # سكربتات Post-Exploitation
+│   ├── reverse_shell.py
+│   ├── keylogger.py
+│   └── README.md
+│
+├── malware_analysis/        # أدوات تحليل البرمجيات الخبيثة
+│   ├── string_extractor.py
+│   ├── unpacker.py
+│   └── README.md
+│
+├── ctf_solutions/           # حلول CTF Challenges
+│   ├── crypto/
+│   │   ├── xor_solver.py
+│   │   └── README.md
+│   ├── reversing/
+│   │   ├── crackme_solver.py
+│   │   └── README.md
+│   └── web/
+│       ├── ssti_payloads.py
+│       └── README.md
+│
+└── docs/                    # مستندات إضافية (صور / شرح موسع)
+    ├── usage_examples.md
+    └── screenshots/
